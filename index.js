@@ -1,6 +1,6 @@
 function toReadable(n) {
     const numbers1 = [
-        "none-n1",
+        "zero",
         "one",
         "two",
         "three",
